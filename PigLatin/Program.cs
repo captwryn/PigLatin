@@ -61,18 +61,7 @@ namespace NumAnalyze1
                 {
                     x = 2;
                 }
-                
             }
-            //check for vowel location
-
-           
-
-
-
-            
-            // move front non vowels to the back
-            // add ay or way
-
         }
     }
 }
