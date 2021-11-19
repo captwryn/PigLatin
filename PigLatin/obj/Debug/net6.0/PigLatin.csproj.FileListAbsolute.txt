@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.exe
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.deps.json
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.dll
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\ref\PigLatin.dll
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.pdb
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.dll
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\ref\PigLatin.dll
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.pdb
+C:\Users\Dans-LT\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.genruntimeconfig.cache
